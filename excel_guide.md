@@ -1,12 +1,5 @@
-# Excel for Accenture ASE OA --- Learning & Practice Guide
-
-> A practical Excel cheat sheet covering the shortcuts, formulas,
-> functions, references, and features most useful for preparing for an
-> Accenture Associate Software Engineer (ASE) online assessment.
-
-**Important:** Assessment content can vary by hiring drive and test
-version. Use this as a preparation guide, not as a guarantee of exact
-questions.
+# Excel
+> Excel + PowerPoint + Word + Outlook + Teams
 
 ------------------------------------------------------------------------
 
